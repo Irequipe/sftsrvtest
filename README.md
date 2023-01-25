@@ -11,4 +11,8 @@ There are 3 steps to deploy the project and it needs to be executed in the follo
 
 The files have some parts that are not parameterized, this could be a improve opportunity.
 
+Additional, you can find the script.sh, a bash file to execute the 2nd part of the test, deploying the apache server and the webpage with Hello World.
+
+
+
 
